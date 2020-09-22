@@ -1,0 +1,14 @@
+Index: src/test/java/com/baizhi/test.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/java/com/baizhi/test.java	(revision d3c07e6e46e00e655aed926d5c9d05c6f4a1c401)
++++ src/test/java/com/baizhi/test.java	(date 1600734841849)
+@@ -5,5 +5,6 @@
+         System.out.println(3 * 0.1 == 0.3);
+         System.out.println("第一次本地提交修改");
+         System.out.println("第一次远程修改拉取");
++        System.out.println("克隆的项目本地提交并推送");
+     }
+ }
