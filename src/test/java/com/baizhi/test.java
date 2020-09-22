@@ -5,5 +5,7 @@ public class test {
         System.out.println(3 * 0.1 == 0.3);
         System.out.println("第一次本地提交修改");
         System.out.println("第一次远程修改拉取");
+        System.out.println("第一次远程修改拉取");
+        System.out.println("克隆的项目本地提交并推送");
     }
 }
